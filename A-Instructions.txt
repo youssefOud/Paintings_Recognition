@@ -1,0 +1,16 @@
+Notre dossier contient : 
+
+- un dossier BDImages contenant les peintures de référence de notre base de données
+
+- un dossier BDImagesOpenSource contenant les peintures ajoutées en Open Source par un utilisateur
+
+- un dossier Docs, contenant les documents relatifs au projet (cahier des charges, compte rendu...)
+
+- un dossier fonds contenant les fonds de notre application
+
+- un dossier photos-test, contenant des photos de peinture avec différents angles de vue et conditions(luminosité, saturation ...) pour tester le programme. (Vous pouvez aussi prendre une photo des peintures de référence, ou ajouter votre oeuvre en Open Source pour tester notre programme ! )
+
+- toutes nos classes java, le main étant intitulé : testMain.
+
+Remarque: Nous avons choisi des oeuvres à forte dominante de bleu pour augmenter la difficulté de la comparaison.
+
